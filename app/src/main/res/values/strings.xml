@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Alkanza</string>
+    <string name="pref1">Preferencia por la imagen 1</string>
+    <string name="title">Prueba Alkanza</string>
+    <string name="pref2">Preferencia por la imagen 2</string>
+</resources>
